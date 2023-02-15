@@ -1,0 +1,43 @@
+name: cs323-spring-2023-env
+
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - bokeh
+  - cudatoolkit=11.6
+  - datashader
+  - gh
+  - git
+  - holoviews
+  - hvplot
+  - ipywidgets
+  - jupyterlab
+  - jupyterlab-git
+  - jupyterlab-nvdashboard
+  - jupyterlab-lsp
+  - matplotlib
+  - numba
+  - numpy
+  - optuna
+  - pandas
+  - panel
+  - pip
+  - pip:
+    - -r requirements.txt
+  - pyarrow
+  - python
+  - python-language-server
+  - pytorch=1.13
+  - pytorch-lightning
+  - pyviz_comms
+  - scikit-learn
+  - scipy
+  - tensorboard
+  - torchaudio
+  - torchmetrics
+  - torchtext
+  - torchvision
+  - wandb
