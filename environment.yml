@@ -2,12 +2,12 @@ name: cs323-spring-2023-env
 
 channels:
   - pytorch
+  - nvidia
   - conda-forge
   - defaults
 
 dependencies:
   - bokeh
-  - cudatoolkit=11.6
   - datashader
   - gh
   - git
@@ -29,9 +29,10 @@ dependencies:
   - pip:
     - -r requirements.txt
   - pyarrow
-  - python
+  - python=3.10
   - python-language-server
   - pytorch=1.13
+  - pytorch-cuda=11.6
   - pytorch-lightning
   - pyviz_comms
   - scikit-learn
