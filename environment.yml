@@ -18,6 +18,7 @@ dependencies:
   - jupyterlab-git
   - jupyterlab-nvdashboard
   - jupyterlab-lsp
+  - kornia
   - matplotlib
   - numba
   - numpy
