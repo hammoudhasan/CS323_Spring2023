@@ -20,6 +20,7 @@ dependencies:
   - jupyterlab-lsp
   - kornia
   - matplotlib
+  - nbgitpuller
   - numba
   - numpy
   - optuna
