@@ -6,4 +6,4 @@
 
 ## Launch on KAUST BinderHub (GPU support)
 
-[![Binder](https://ai-binder.kaust.edu.sa/badge_logo.svg)](https://ai-binder.kaust.edu.sa/v2/gh/hammoudhasan/CS323_Spring2023/HEAD)
+[![Binder](https://ai-binder.kaust.edu.sa/badge_logo.svg)](https://ai-binder.kaust.edu.sa/v2/gh/hammoudhasan/CS323_Spring2023/HEAD?urlpath=lab)
